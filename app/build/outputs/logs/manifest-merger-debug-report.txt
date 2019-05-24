@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\2e6dba24949278fcde8ce032496d7a79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\2e734dc2a8886844fc56c4486cb239d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\ec7d9256e2631b83f8ecf5820a2bfba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\1aaeae80fbbabfc1484d519d24881c6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\c219caba497a729cce1db6569390e706\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\506cc2a8e07e32098ee624b5952bc8b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\2c2901d0423d72b83d227f7a5d86907a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\766c59591230f9616d5334e0365b0df0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\4c655b6e57a038ed00b367fc47bc6189\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\50ed5a9961c9142f17d2076610f1be6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\214131555d01a9b1c76db884d848fda4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\0d795e2faaf91e4c02c225bc5849f38e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\a5380dfed9664aa49986cc97bce5018c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\fddae02f0f3c9c25f408ad6ae966e860\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\8e0f50bddcc8b2ac24a726ee5e87afc8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\118942d6ce6b57c6b8bc72423f3f6502\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\3af28e01765f8ce4d7d08705c3882594\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\22fecd3e160675cfac6cace09c968fc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\5f1559a3f5465ad6ad0011c1daefeb6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\4ae62fe68497996f5c18b46beb293541\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\7a72cd5a50686d5acd6e0df7944d26c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\79aac952714f80ec73c03280a0cecc2b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\f90dc5578a842afd150b2fe6b625fca4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\e46af0fa9cfd3af02d1d7f5a4a726124\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\62b5090437f418d7eadc2b485311adcd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\8869c9972c87ba419fcd70c2f7a21115\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\8e0f50bddcc8b2ac24a726ee5e87afc8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\8e0f50bddcc8b2ac24a726ee5e87afc8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\118942d6ce6b57c6b8bc72423f3f6502\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\118942d6ce6b57c6b8bc72423f3f6502\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\8e0f50bddcc8b2ac24a726ee5e87afc8\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.java.MainActivity
+ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\2e6dba24949278fcde8ce032496d7a79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\2e6dba24949278fcde8ce032496d7a79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\2e734dc2a8886844fc56c4486cb239d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\2e734dc2a8886844fc56c4486cb239d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\ec7d9256e2631b83f8ecf5820a2bfba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\ec7d9256e2631b83f8ecf5820a2bfba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\1aaeae80fbbabfc1484d519d24881c6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\1aaeae80fbbabfc1484d519d24881c6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\c219caba497a729cce1db6569390e706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\c219caba497a729cce1db6569390e706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\506cc2a8e07e32098ee624b5952bc8b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\506cc2a8e07e32098ee624b5952bc8b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\2c2901d0423d72b83d227f7a5d86907a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\2c2901d0423d72b83d227f7a5d86907a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\766c59591230f9616d5334e0365b0df0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\766c59591230f9616d5334e0365b0df0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\4c655b6e57a038ed00b367fc47bc6189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\4c655b6e57a038ed00b367fc47bc6189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\50ed5a9961c9142f17d2076610f1be6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\50ed5a9961c9142f17d2076610f1be6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\214131555d01a9b1c76db884d848fda4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\214131555d01a9b1c76db884d848fda4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\0d795e2faaf91e4c02c225bc5849f38e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\0d795e2faaf91e4c02c225bc5849f38e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\a5380dfed9664aa49986cc97bce5018c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\a5380dfed9664aa49986cc97bce5018c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\fddae02f0f3c9c25f408ad6ae966e860\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\fddae02f0f3c9c25f408ad6ae966e860\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\8e0f50bddcc8b2ac24a726ee5e87afc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\8e0f50bddcc8b2ac24a726ee5e87afc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\118942d6ce6b57c6b8bc72423f3f6502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\118942d6ce6b57c6b8bc72423f3f6502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\3af28e01765f8ce4d7d08705c3882594\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\3af28e01765f8ce4d7d08705c3882594\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\22fecd3e160675cfac6cace09c968fc1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\22fecd3e160675cfac6cace09c968fc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\5f1559a3f5465ad6ad0011c1daefeb6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\5f1559a3f5465ad6ad0011c1daefeb6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\4ae62fe68497996f5c18b46beb293541\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\4ae62fe68497996f5c18b46beb293541\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\7a72cd5a50686d5acd6e0df7944d26c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\7a72cd5a50686d5acd6e0df7944d26c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\79aac952714f80ec73c03280a0cecc2b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\79aac952714f80ec73c03280a0cecc2b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\f90dc5578a842afd150b2fe6b625fca4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\f90dc5578a842afd150b2fe6b625fca4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\e46af0fa9cfd3af02d1d7f5a4a726124\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\e46af0fa9cfd3af02d1d7f5a4a726124\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\62b5090437f418d7eadc2b485311adcd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\62b5090437f418d7eadc2b485311adcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\8869c9972c87ba419fcd70c2f7a21115\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Rudyr\.gradle\caches\transforms-2\files-2.1\8869c9972c87ba419fcd70c2f7a21115\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rudyr\OneDrive\Escritorio\ReadJSON\app\src\main\AndroidManifest.xml
